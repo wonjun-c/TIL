@@ -7,4 +7,4 @@
 
 ##Design Pattern
 -------------
-[Design Pattern](Design Pattern/Design_Pattern.md) 
+[Design Pattern](https://github.com/wonjun-c/TIL/blob/main/Design%20Pattern/Design_Pattern.md) 

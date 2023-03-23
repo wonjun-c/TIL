@@ -31,7 +31,7 @@
 
 1. [Strategy Pattern](Strategy_Pattern.md)
 
-2. Observer Pattern
+2. [Observer Pattern](Observer_Pattern.md)
 
 3. Decorating Pattern
 4. Factory Pattern

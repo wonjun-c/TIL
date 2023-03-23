@@ -29,7 +29,7 @@
 
 패턴
 ```
-1. [Strategy Pattern](https://github.com/wonjun-c/TIL/blob/main/Design%20Pattern/Strategy_Pattern.md)
+1. [Strategy Pattern](Strategy_Pattern.md)
 
 2. Observer Pattern
 
